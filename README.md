@@ -13,7 +13,7 @@
 + 🔥 Building: Fun & small projects
 + 🎯 Goal: Full Stack Developer
 
--Fun Fact:
+- Fun Fact:
 + Sometimes my code works... I don't know why 🫠
 
 - Connect With Me:
