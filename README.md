@@ -3,7 +3,7 @@
 + I am Naim — the Dummuest Programmer in the universe 👀
 
 - Tech Stack:
-+ HTML • CSS • JavaScript • C++ • Tailwind • React (soon) • NodeJS (learning...)
++ HTML • CSS • JavaScript • C++ (learning...) • Tailwind • React (soon) • NodeJS (soon)
 
 - Philosophy:
 + "Code. Break. Learn. Repeat." 🔁
