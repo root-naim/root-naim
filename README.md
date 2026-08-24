@@ -1,20 +1,18 @@
 ```diff
 - Allow me to introduce myself...
-+ I am Naim — the Dummuest Programmer in the universe 👀
-
-- Tech Stack:
-+ HTML • CSS • JavaScript • C++ (learning...) • Tailwind • React (soon) • NodeJS (soon)
++ I am Naim — passionate about programming and learning new things.
 
 - Philosophy:
-+ "Code. Break. Learn. Repeat." 🔁
++ "Learn. Build. Improve. Repeat." 🔁
++ "Keep learning, keep building." 🌱
 
 - Current Status:
-+ 🧑‍💻 Learning: DSA with C++ 📈
-+ 🔥 Building: Fun & small projects
-+ 🎯 Goal: Full Stack Developer
++ 🧠 Learning: DSA with C++
++ 🔨 Building: Small projects
++ 🎯 Goal: Become a better developer
 
 - Fun Fact:
-+ Sometimes my code works... I don't know why 🫠
++ "Every expert was once a beginner." 🌱
 
 - Connect With Me:
 + GitHub: https://github.com/root-naim
